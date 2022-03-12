@@ -1,0 +1,14 @@
+{
+  "name": "02-express",
+  "version": "1.0.0",
+  "description": "applications design exercises (week 2)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sofia-quintana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
